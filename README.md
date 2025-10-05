@@ -1,9 +1,8 @@
 # Predictive Analysis of Retail Sales Forecasting using Machine Learning Techniques
 
-## Overview
-This project focuses on predicting retail sales using various **machine learning models**. Accurate sales forecasting helps retail businesses optimize inventory, reduce costs, and improve customer satisfaction. 
+# Predictive Analysis of Retail Sales Forecasting using Machine Learning Techniques
 
-The dataset used in this project includes historical sales data from **Zaamila Development Pvt. Ltd.**, along with publicly available retail datasets for benchmarking.
+This project predicts retail sales using machine learning models to help businesses optimize inventory and improve planning.
 
 ---
 
