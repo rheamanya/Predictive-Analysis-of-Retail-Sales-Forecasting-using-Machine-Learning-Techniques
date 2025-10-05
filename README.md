@@ -31,21 +31,21 @@ The dataset used in this project includes historical sales data from **Zaamila D
 ---
 
 ## Project Structure
-├── data/ # Raw and processed datasets
-├── notebooks/ # Jupyter notebooks for analysis
-├── models/ # Trained ML models
-├── visuals/ # Graphs and charts (sales trends, seasonality, model comparison)
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies
+- ├── data/ # Raw and processed datasets
+- ├── notebooks/ # Jupyter notebooks for analysis
+- ├── models/ # Trained ML models
+- ├── visuals/ # Graphs and charts (sales trends, seasonality, model comparison)
+- ├── README.md # Project documentation
+- └── requirements.txt # Python dependencies
 
-##Usage
+## Usage
 
 - Open Jupyter notebooks in the notebooks/ folder to explore the analysis.
 - Preprocess data from data/ folder.
 - Run ML models to predict sales and evaluate performance.
 - Visualizations can be found in visuals/.
 
-##Results
+## Results
 
 - Comparison of model performance using metrics such as RMSE, MAE, R² Score.
 - Visual insights into seasonal trends and sales patterns.
